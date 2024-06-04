@@ -14,4 +14,4 @@ This is where I store all the little C projects I've created while learning the 
 The main purpose of this repository is to document my journey of learning C programming. By maintaining this collection of projects, I can track my progress and revisit concepts.
 
 ### Contents
-This repository contains various C projects, each residing in its own directory. Inside each project directory, you'll find the source code files along with any necessary resources or documentation specific to that project.
+This repository contains various C projects, each residing in its own directory/cattegory. Inside each project directory, you'll find the source code files along with any necessary resources or documentation specific to that project.
